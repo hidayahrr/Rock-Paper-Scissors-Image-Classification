@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors-Image-Classification
-A machine learning program to classify an image into rock, paper, or scissors 🤖
+A machine learning program to classify an image into rock, paper, or scissors using Convolutional Neural Network (CNN)🤖
 
 ## Built in using:
 1. Google Colaboratory - a product from Google Research which allows writing and executing arbitrary python code through the browser, and is especially well suited to machine learning, data analysis and education.
